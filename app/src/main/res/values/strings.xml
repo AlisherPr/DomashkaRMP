@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DOMASHNEEZAD</string>
+    <string name="question_text">Вы любите Леонида Савицина?</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
 </resources>
