@@ -5,4 +5,10 @@
     <string name="false_button">Нет</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="next">Next</string>
+    <string name="question_text2">Вы бы хотели миллион долларов?</string>
+    <string name="question_text3">Вы любите маму?</string>
+    <string name="question_text4">Вы любите папу?</string>
+    <string name="question_text5">Вы дружите с девочками?</string>
+    <string name="question_text6">С вами все хорошо?</string>
 </resources>
