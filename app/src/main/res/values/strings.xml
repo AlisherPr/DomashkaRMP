@@ -11,4 +11,5 @@
     <string name="question_text4">Вы любите папу?</string>
     <string name="question_text5">Вы дружите с девочками?</string>
     <string name="question_text6">С вами все хорошо?</string>
+    <string name="prev">Prev</string>
 </resources>
